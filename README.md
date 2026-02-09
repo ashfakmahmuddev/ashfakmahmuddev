@@ -39,7 +39,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mdjaberdev&theme=dark&hide_border=false" alt="mdjaberdev Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ashfakmahmuddev&theme=dark&hide_border=false" alt="mdjaberdev Streak" />
 </div>
 
 <h3 align="center" style="color: #f39c12; font-family: 'Arial', sans-serif;">
