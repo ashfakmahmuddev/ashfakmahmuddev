@@ -1,51 +1,47 @@
-# 💫 About Me
-
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashfakmahmuddev&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-### 👋 Hi, I'm Ashfak Mahmud
-**A dedicated Frontend Developer from Bangladesh** with a passion for building seamless user experiences. I specialize in modern JavaScript frameworks and responsive design.
-
-- 🔭 **Currently working on:** [eCommerce OREBI](https://github.com/ashfakmahmuddev/eCommerce-OREBI)
-- 🌱 **Learning:** Advanced React.js and Performance Optimization
-- 👯 **Collaboration:** Open for React.js projects and Open Source contributions
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, and Tailwind CSS
-- 📫 **Contact:** [jahinkhan550@gmail.com](mailto:jahinkhan550@gmail.com)
-- ⚡ **Fun Fact:** I believe a good laugh makes the code run faster!
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,ps,ai,xd&perline=10" />
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakmahmuddev&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakmahmuddev&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="165px" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/ashfakmahmuddev" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dev.to/ashfakmahmuddev" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://fb.com/ashfakmahmuddev" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:jahinkhan550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<h1 align="center">Hey 👋, I'm Ashfak Mahmud</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashfakmahmuddev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=A+Passionate+Front-end+Developer;From+Bangladesh;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaber-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashfakmahmuddev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> 
+
+<p align="center">
+  <img src="https://i.giphy.com/SWoSkN6DxTszqIKEqv.gif" height="200" width="400" alt="Developer Coding">
+</p>
+
+### 👨‍💻 About Me
+
+* 🔭 Currently working on **[Orebi – E‑commerce Project](https://e-commerce-six-liard.vercel.app/)**
+* 🌱 Learning **React JS** & modern frontend workflows
+* 👯 Open to collaborating on **React-based projects**
+* 🤝 Looking for guidance in **E‑commerce development**
+* 📝 Writing articles on **[dev.to](https://dev.to/)**
+* 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS**
+* 📫 Reach me at **[md9292463@gmail.com](mailto:md9292463@gmail.com)**
+* ⚡ Fun fact: *I think I’m funny 😄*
+
+<h3 align="left">🌐 Connect with Me</h3>
+
+<p align="left">
+  <a href="https://fb.com/ashfakmahmuddev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
+  </a>
+  <a href="https://linkedin.com/in/ashfakmahmuddev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdjaberdev&theme=dark&hide_border=false" alt="mdjaberdev Streak" />
+</div>
+
+<h3 align="center" style="color: #f39c12; font-family: 'Arial', sans-serif;">
+⭐ Thanks for visiting my profile!
+</h3>
