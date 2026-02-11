@@ -23,7 +23,7 @@
 * 🤝 Looking for guidance in **E‑commerce development**
 * 📝 Writing articles on **[dev.to](https://dev.to/)**
 * 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS**
-* 📫 Reach me at **[md9292463@gmail.com](mailto:md9292463@gmail.com)**
+* 📫 Reach me at **[ashfakmahmud.dev@gmail.com](mailto:ashfakmahmud.dev@gmail.com)**
 * ⚡ Fun fact: *I think I’m funny 😄*
 
 <h3 align="left">🌐 Connect with Me</h3>
