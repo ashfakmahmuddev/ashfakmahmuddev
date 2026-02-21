@@ -12,7 +12,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://i.giphy.com/SWoSkN6DxTszqIKEqv.gif" height="200" width="400" alt="Developer Coding">
+  <img src="https://shorturl.at/V0n5v" height="200" width="400" alt="Developer Coding">
 </p>
 
 ### 👨‍💻 About Me
