@@ -12,7 +12,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://shorturl.at/V0n5v" height="300" width="600" alt="Developer Coding">
+  <img src="https://shorturl.at/V0n5v" height="400" width="600" alt="Developer Coding">
 </p>
 
 ### 👨‍💻 About Me
