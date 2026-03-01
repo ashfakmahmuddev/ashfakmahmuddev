@@ -47,10 +47,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfakmahmuddev&theme=react-dark" alt="ashfakmahmuddev Activity Graph" />
   </a>
 </div>
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashfakmahmuddev&theme=dark&hide_border=false" alt="ashfakmahmuddev Streak" />
-</div>
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
