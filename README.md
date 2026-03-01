@@ -8,7 +8,7 @@
 
 ---
 
--  I’m currently working on **[Bee-eCommerce](https://github.com/ashfakmahmuddev/Bee-eCommerce)**
+-  I’m currently working on **[Bee-eCommerce](https://github.com/ashfakmahmuddev/Bee_eCommerce)**
 
 -  I’m currently learning **Next JS**
 
