@@ -1,41 +1,56 @@
 <h1 align="center">Hey 👋, I'm Ashfak Mahmud</h1>
 
+<h3 align="center" >I am a Front-End Developer from Bangladesh<br>Passionate about coding and problem-solving.</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Ashfak;Frontend+Developer+from+Bangladesh;Expert+in+Modern+JavaScript+Ecosystems;Creating+Performant+Web+Applications" alt="Clean White Typing" />
+  <img src="https://komarev.com/ghpvc/?username=sijan666&label=Profile%20views&color=0e75b6&style=flat" alt="sijan666" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaber-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashfakmahmuddev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> 
+---
 
+-  I’m currently working on **[EduAct](https://github.com/Sijan666/eduActFigma)**
+
+-  I’m currently learning **Next JS**
+
+-  I’m looking to collaborate on **NextJS Projects**
+
+-  I’m looking for help with **e-Commerce Solutions**
+
+-  All of my projects are available at **https://github.com/ashfakmahmuddev**
+
+-  Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, ReactJS , NextJS**
+
+-  How to reach me: **ashfakmahmud.dev@gmail.com**
+
+-  Fun fact: **I can turn anything into code**
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <img src="https://shorturl.at/V0n5v" height="200" width="400" alt="Developer Coding">
+<a href="https://fb.com/ashfakmahmuddev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfakmahmuddev" height="30" width="40" /></a>
+<a href="https://instagram.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://discord.gg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
-### 👨‍💻 About Me
+---
 
-* 🔭 Currently working on **[Orebi – E‑commerce Project](https://e-commerce-orebi-roan.vercel.app)**
-* 🌱 Learning **React JS** & modern frontend workflows
-* 👯 Open to collaborating on **React-based projects**
-* 🤝 Looking for guidance in **E‑commerce development**
-* 📝 Writing articles on **[dev.to](https://dev.to/ashfakmahmuddev)**
-* 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS**
-* 📫 Reach me at **[ashfakmahmud.dev@gmail.com](mailto:ashfakmahmud.dev@gmail.com)**
-* ⚡ Fun fact: *I think I’m funny 😄*
+<h3 align="center">💻 Languages and Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,vscode,figma,bootstrap,photoshop&theme=dark" />
+</p>
 
-<h3 align="left">🌐 Connect with Me</h3>
-
-<p align="left">
-  <a href="https://fb.com/ashfakmahmuddev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
+---
+<div align="center">
+  <a href="https://github.com/ashfakmahmuddev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfakmahmuddev&theme=react-dark" alt="ashfakmahmuddev Activity Graph" />
   </a>
-  <a href="https://linkedin.com/in/ashfakmahmuddev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-</p>
+</div>
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ashfakmahmuddev&theme=dark&hide_border=false" alt="ashfakmahmuddev Streak" />
+</div>
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
