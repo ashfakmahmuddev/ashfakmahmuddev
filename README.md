@@ -3,12 +3,12 @@
 <h3 align="center" >I am a Front-End Developer from Bangladesh<br>Passionate about coding and problem-solving.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sijan666&label=Profile%20views&color=0e75b6&style=flat" alt="sijan666" />
+  <img src="https://komarev.com/ghpvc/?username=ashfakmahmuddev&label=Profile%20views&color=0e75b6&style=flat" alt="ashfakmahmuddev" />
 </p>
 
 ---
 
--  I’m currently working on **[EduAct](https://github.com/Sijan666/eduActFigma)**
+-  I’m currently working on **[Bee-eCommerce](https://github.com/ashfakmahmuddev/Bee-eCommerce)**
 
 -  I’m currently learning **Next JS**
 
