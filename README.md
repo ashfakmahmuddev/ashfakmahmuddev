@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ashfak Mahmud</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=27F5D6&center=true&vCenter=true&width=500&lines=A+Passionate+Front-end+Developer;From+Bangladesh;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1500&color=60A5FA&center=true&vCenter=true&width=540&height=80&lines=Hi%2C+I'm+Ashfak+Mahmud;Frontend+Developer+%7C+Bangladesh;Specializing+in+React%2C+Next.js+%26+Tailwind;Building+Scalable+and+Modern+Web+Interfaces" alt="Professional Typing SVG" />
 </p>
 
 <!-- <p align="center">
