@@ -27,7 +27,6 @@
 ---
 
 <h3 align="center">🌐 Connect with me</h3>
-<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://fb.com/ashfakmahmuddev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfakmahmuddev" height="30" width="40" />
@@ -35,10 +34,10 @@
   <a href="https://www.linkedin.com/in/ashfakmahmuddev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfakmahmuddev" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/ashfakmahmuddev" target="_blank">  <!-- তোমার ইনস্টা লিঙ্ক দাও -->
+  <a href="https://www.instagram.com" target="_blank"> 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="https://discord.gg" target="_blank">  <!-- তোমার ডিসকর্ড লিঙ্ক দাও -->
+  <a href="https://discord.gg" target="_blank"> 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>
 </p>
